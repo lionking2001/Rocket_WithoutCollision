@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="log4j-slf4j-impl-2.6.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../lab065Assignment-withoutcollision_source_from_cfr/log4j-slf4j-impl-2.6.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
